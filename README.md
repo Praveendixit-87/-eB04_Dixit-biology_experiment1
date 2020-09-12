@@ -29,15 +29,16 @@ Dr.APJ Abdul Kalam Technical University,Lucknow
 :--|:--|
 <b> Institute | <b> KIET School of Pharmacy,KIET Group of Institutions,Delhi-NCR,Ghaziabad
 <b> Email id|     <b> Praveendixit87@gmail.com/praveen.dixit@kiet.edu
-<b> Department | Department of Pharmacology
+<b> Department | Department of Pharmaceutical Techenology
 
 #### Mentor Details
 
 <b>Mentored by | <b> Rupali Sharma
 :--|:--|
-<b> Institute | <b> MIET,Meerut
+<b> Institute | <b> MIET, Meerut
 <b> Email id|     <b> rupali.sharma@miet.ec.in
-<b> Department | Department of Pharmacology
+<b> Department | Department of Pharmaceutical Techenology
+
 
 #### Contributors List
 
