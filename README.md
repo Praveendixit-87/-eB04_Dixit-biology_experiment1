@@ -35,9 +35,10 @@ Dr.APJ Abdul Kalam Technical University,Lucknow
 
 <b>Mentored by | <b> Rupali Sharma
 :--|:--|
-<b> Institute | <b> MIET,Meerut
+<b> Institute | <b> MIET, Meerut
 <b> Email id|     <b> rupali.sharma@miet.ec.in
 <b> Department | Department of Pharmaceutical Techenology
+
 
 #### Contributors List
 
