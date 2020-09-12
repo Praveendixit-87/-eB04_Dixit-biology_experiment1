@@ -37,7 +37,7 @@ Dr.APJ Abdul Kalam Technical University,Lucknow
 :--|:--|
 <b> Institute | <b> MIET,Meerut
 <b> Email id|     <b> rupali.sharma@miet.ec.in
-<b> Department | Department of Pharmacology
+<b> Department | Department of Pharmaceutical Techenology
 
 #### Contributors List
 
