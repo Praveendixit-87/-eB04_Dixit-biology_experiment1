@@ -45,10 +45,9 @@ Dr.APJ Abdul Kalam Technical University,Lucknow
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Siddharth Singh | Student | CS       | KIET Group of Institution Delhi-NCR,Ghaziabad| siddharth.1822co1057@kiet.edu
-2 | Ashish          | Student | Pharmacy | KIET School of Pharmacy                      |ashishkumar24689@gmail.com
-3 | Ashish Dixit    | Student | CS       | KIET Group of Institution Delhi-NCR,Ghaziabad|Dixitashish628@gmail.com
-4 | Varnika Jain    | Student | CSE      | KIET Group of Institution Delhi-NCR,Ghaziabad|varnika.1822cs1159@kiet.edu
-5 | Kinshuk Agrawal    | Student | CSE      | KIET Group of Institution Delhi-NCR,Ghaziabad|Kinshuk926@gmail.com
+2 | Ashish Dixit    | Student | CS       | KIET Group of Institution Delhi-NCR,Ghaziabad|Dixitashish628@gmail.com
+3 | Varnika Jain    | Student | CSE      | KIET Group of Institution Delhi-NCR,Ghaziabad|varnika.1822cs1159@kiet.edu
+4 | Kinshuk Agrawal    | Student | CSE      | KIET Group of Institution Delhi-NCR,Ghaziabad|Kinshuk926@gmail.com
 
 <br>
 for more details on Rounds visit : <b> [HERE](https://github.com/Praveendixit-87/-eB04_teamname_experiment1/settings) </b>
